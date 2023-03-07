@@ -4,18 +4,23 @@ General Information : Availability,
 General Information : Recommendation,
 General Information : Company Information,
 General Information : Perfume Information,
+
 Personal Information : About An Order,
 Personal Information : Personal Details,
+
 Intention To Purchase : From Ads,
 Intention To Purchase : From Social Media,
 Intention To Purchase : From Search Engine,
 Intention To Purchase : From Referral,
+
 Place An Order : Order Details,
 Place An Order : Payment Details,
+
 Complaints : About An Order,
 Complaints : About A Product,
 Complaints : About A Service,
 Complaints : About A Company,
 Complaints : About A Website,
+
 Conversation : Chatting,
 
