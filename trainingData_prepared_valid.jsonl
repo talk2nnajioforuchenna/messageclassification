@@ -1,0 +1,39 @@
+{"prompt":"What is the price of this item \/n\/nIntent\/n\/n","completion":" General Information : Price END"}
+{"prompt":"Is the product currently available for sale \/n\/nIntent\/n\/n","completion":" General Information : Availability END"}
+{"prompt":"Can you recommend a product that is similar to this one \/n\/nIntent\/n\/n","completion":" General Information : Recommendation END"}
+{"prompt":"Could you recommend a perfume that is suitable for daytime wear and has a floral scent \/n\/nIntent\/n\/n","completion":" General Information : Recommendation END"}
+{"prompt":"How does your company measure success \/n\/nIntent\/n\/n","completion":" General Information : Company Information END"}
+{"prompt":"Can the perfume oil be applied directly to the skin or should it be diluted first? \/n\/nIntent\/n\/n","completion":" General Information : Perfume Information END"}
+{"prompt":"Are there any specific notes or fragrances in the perfume oil? \/n\/nIntent\/n\/n","completion":" General Information : Perfume Information END"}
+{"prompt":"Does the perfume oil come in different sizes or packaging options? \/n\/nIntent\/n\/n","completion":" General Information : Perfume Information END"}
+{"prompt":"Can you confirm the availability of the product I want to order? \/n\/nIntent\/n\/n","completion":" Personal Information : About An Order END"}
+{"prompt":"Can I make changes to my order after it has been placed? \/n\/nIntent\/n\/n","completion":" Personal Information : About An Order END"}
+{"prompt":"Is it possible to cancel my order? \/n\/nIntent\/n\/n","completion":" Personal Information : About An Order END"}
+{"prompt":"How can I get in touch with customer service if I have any issues with my order? \/n\/nIntent\/n\/n","completion":" Personal Information : About An Order END"}
+{"prompt":"How is the packaging of the products handled during shipping? \/n\/nIntent\/n\/n","completion":" Personal Information : Personal Details END"}
+{"prompt":"What are the available types of perfumes on the website? \/n\/nIntent\/n\/n","completion":" Intention To Purchase : From Ads END"}
+{"prompt":"What is the shipping time and cost for my location? \/n\/nIntent\/n\/n","completion":" Intention To Purchase : From Social Media END"}
+{"prompt":"How can I track my order once it has been shipped? \/n\/nIntent\/n\/n","completion":" Intention To Purchase : From Social Media END"}
+{"prompt":"How can I contact customer support if I have any questions or concerns about my order? \/n\/nIntent\/n\/n","completion":" Intention To Purchase : From Social Media END"}
+{"prompt":"What is the shipping policy and how much does it cost? \/n\/nIntent\/n\/n","completion":" Intention To Purchase : From Search Engine END"}
+{"prompt":"How can I contact customer support if I have any questions or concerns about my order? \/n\/nIntent\/n\/n","completion":" Intention To Purchase : From Search Engine END"}
+{"prompt":"Can the perfumes be gift-wrapped or come with a personalized message? \/n\/nIntent\/n\/n","completion":" Intention To Purchase : From Search Engine END"}
+{"prompt":"Are there any current promotions or discounts available? \/n\/nIntent\/n\/n","completion":" Intention To Purchase : From Referral END"}
+{"prompt":"How long did it take for your order to be delivered? \/n\/nIntent\/n\/n","completion":" Intention To Purchase : From Referral END"}
+{"prompt":"Has my order been shipped yet? \/n\/nIntent\/n\/n","completion":" Place An Order : Order Details END"}
+{"prompt":"How can I get a refund for my order? \/n\/nIntent\/n\/n","completion":" Place An Order : Order Details END"}
+{"prompt":"Is it possible to pay with a gift card or store credit? \/n\/nIntent\/n\/n","completion":" Place An Order : Payment Details END"}
+{"prompt":"Do you offer any financing options for larger purchases? \/n\/nIntent\/n\/n","completion":" Place An Order : Payment Details END"}
+{"prompt":"Can you confirm the availability of the product I want to order? \/n\/nIntent\/n\/n","completion":" Complaints : About An Order END"}
+{"prompt":"What is the size of the bottle? \/n\/nIntent\/n\/n","completion":" Complaints : About A Product END"}
+{"prompt":"What is the price of the perfume? \/n\/nIntent\/n\/n","completion":" Complaints : About A Product END"}
+{"prompt":"What is the customer support contact information and what are the working hours? \/n\/nIntent\/n\/n","completion":" Complaints : About A Service END"}
+{"prompt":"Does the company offer any loyalty or reward programs? \/n\/nIntent\/n\/n","completion":" Complaints : About A Service END"}
+{"prompt":"Does the company offer any gift-wrapping or personalized messaging services? \/n\/nIntent\/n\/n","completion":" Complaints : About A Service END"}
+{"prompt":"What payment methods do you accept? \/n\/nIntent\/n\/n","completion":" Complaints : About A Company END"}
+{"prompt":"Can I see customer reviews and ratings for your fragrances? \/n\/nIntent\/n\/n","completion":" Complaints : About A Website END"}
+{"prompt":"How can I be sure that the fragrance I am ordering is authentic? \/n\/nIntent\/n\/n","completion":" Complaints : About A Website END"}
+{"prompt":"How can I contact customer service if I have any questions or concerns about my order? \/n\/nIntent\/n\/n","completion":" Complaints : About A Website END"}
+{"prompt":"How do I start a chat with a customer service representative? \/n\/nIntent\/n\/n","completion":" Conversation : Chatting END"}
+{"prompt":"Can I save a transcript of our chat for future reference? \/n\/nIntent\/n\/n","completion":" Conversation : Chatting END"}
+{"prompt":"Can I continue shopping on the website while I'm chatting with a representative? \/n\/nIntent\/n\/n","completion":" Conversation : Chatting END"}

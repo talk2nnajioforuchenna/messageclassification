@@ -1,0 +1,249 @@
+
+Price :
+How much does this product cost,
+What is the price of this item,
+Can you tell me how much this costs,
+What is the asking price for this product,
+May I know the price of this item,
+Could you provide me with the price of this product,
+How much do I need to pay for this item,
+What is the cost of this product,
+Can you give me the price of this item,
+How much is this product selling for,
+
+
+Availability :
+Is the product currently in stock,
+Do you have this item available right now,
+Can you confirm if this product is available for purchase,
+May I know if the product is available,
+Is the product currently available for sale,
+Can you tell me if you have this product in stock,
+Do you currently have this product available for purchase,
+Could you please confirm the availability of this item,
+Is the product currently available to order,
+Can you check if the product is available for delivery/pickup,
+
+
+Recommendation :
+Can you recommend a product that is similar to this one,
+Could you recommend a perfume that is suitable for daytime wear and has a floral scent,
+Can you suggest a perfume that is long-lasting and has a woody, musky fragrance,
+I'm looking for a perfume that has a fresh, citrusy scent. Do you have any recommendations,
+Can you recommend a perfume that is perfect for evening wear and has a sweet, vanilla fragrance,
+I'm in search of a perfume that is perfect for a special occasion and has a spicy, oriental scent. Can you suggest any options,
+Could you recommend a perfume that has a clean, fresh scent and is ideal for office wear,
+I'm looking for a perfume that has a fruity, floral scent. Can you recommend any options,
+Can you suggest a perfume that is perfect for summer wear and has a light, refreshing fragrance,
+I'm in search of a perfume that is suitable for sensitive skin and has a subtle, natural fragrance. Could you recommend any options,
+Can you recommend a perfume that has a classic, timeless scent and is suitable for all occasions,
+
+
+Company Information :
+What does your company specialize in,
+How long has your company been in business,
+What are your company's core values,
+What sets your company apart from its competitors,
+Can you tell me about the company's culture,
+What are the company's goals for the next year,
+How does your company measure success,
+Can you tell me about the company's leadership team,
+What is your company's mission statement,
+Can you share any recent accomplishments or milestones your company has achieved,
+How do you source the ingredients for your perfume oils,
+What is your return policy for perfume oils,
+
+
+Perfume Information:
+What is the difference between perfume and eau de parfum,
+What is the concentration of the perfume oil in the product,
+What is the difference between a perfume oil and a perfume spray,
+How long does the scent of the perfume oil last on the skin,
+What is the shelf life of the perfume oil,
+Can the perfume oil be applied directly to the skin or should it be diluted first,
+Is the perfume oil suitable for all skin types,
+Are there any specific notes or fragrances in the perfume oil,
+How should the perfume oil be stored to maintain its quality,
+Does the perfume oil come in different sizes or packaging options,
+Are there any special instructions for applying the perfume oil to get the best results,
+
+
+About An Order :
+What is the status of my order?
+When will my order be shipped?
+How can I track my order once it has been shipped?
+Can I modify or cancel my order after it has been placed?
+How long will it take for my order to be delivered?
+Can I choose a specific delivery date or time for my order?
+Is there an option for express or expedited shipping?
+What happens if my order is damaged or lost during shipping?
+Can I return or exchange my order if I am not satisfied with it?
+How can I contact customer service if I have any issues or concerns about my order?
+
+
+Personal Details :
+What is the company's return policy for perfume products?
+What brands of perfumes are available on the website?
+How does the company ensure the authenticity of the perfumes it sells?
+Are there any discounts or promotions currently available?
+What payment methods are accepted on the website?
+Does the company offer any loyalty or reward programs for frequent customers?
+What is the shipping policy and how much does it cost?
+How is the packaging of the products handled during shipping?
+Is there a customer service hotline or live chat support available?
+Are there any additional services offered such as gift wrapping or personalization?
+
+
+From Ads :
+What are the available types of perfumes on the website?
+What is the difference between eau de perfume, eau de toilette, and other perfume types?
+Can I sample the perfume before purchasing it?
+Are the fragrances available in different sizes or packaging options?
+What is the price range of the perfumes?
+What are the main fragrance notes and ingredients in the perfumes?
+Are there any special offers or discounts for first-time buyers?
+Are there any restrictions on shipping perfumes to certain countries?
+What is the return policy for perfume products?
+Can the perfumes be gift-wrapped or come with a personalized message?
+
+
+From Social Media :
+Is there a discount code available for social media followers?
+Can I see more pictures or videos of the perfume products?
+Are there any reviews or ratings from previous customers available?
+What is the shipping time and cost for my location?
+How can I track my order once it has been shipped?
+Can I pay using a different method other than the ones listed on the website?
+What is the company's policy on eco-friendly or sustainable packaging options?
+Are there any gift sets available for purchase?
+How can I contact customer support if I have any questions or concerns about my order?
+Can I get a sample of the perfume before purchasing the full-size product?
+
+From Search Engine :
+What brands of perfumes are available on the website?
+Are the perfumes sold on the website authentic and original?
+What are the main fragrance notes and ingredients in the perfumes?
+What is the pricing range of the perfumes available?
+Are there any discounts or promotions currently available?
+What is the shipping policy and how much does it cost?
+How long will it take for my order to be delivered?
+What is the return policy for perfume products?
+How can I contact customer support if I have any questions or concerns about my order?
+Can the perfumes be gift-wrapped or come with a personalized message?
+
+From Referral :
+What perfumes do you recommend for a specific occasion?
+How was your experience with the company's customer service?
+Are there any current promotions or discounts available?
+How long did it take for your order to be delivered?
+Were the perfumes you received in good condition upon delivery?
+How was the packaging of the perfumes handled during shipping?
+What is the company's return policy for perfume products?
+Can you recommend any specific fragrances for a certain taste or preference?
+Were there any issues with payment or billing during your purchase?
+How was your overall experience shopping on the website?
+
+Order Details :
+Can you confirm the items I ordered?
+When can I expect my order to be delivered?
+Has my order been shipped yet?
+Can I track my order?
+How do I make changes to my order?
+Can I cancel my order?
+What is the status of my order?
+How can I get a refund for my order?
+Is it possible to add an item to my order after it has been placed?
+Can you provide me with a receipt for my order?
+
+
+Payment Details :
+What are the accepted payment methods for my order?
+Is it safe to enter my credit card information on your website?
+Can I use PayPal to pay for my order?
+Are there any additional fees for using a specific payment method?
+When will my credit card be charged for my order?
+Is it possible to pay with a gift card or store credit?
+Do you offer any financing options for larger purchases?
+Can I split the payment between multiple credit cards?
+What information do I need to provide to make a payment?
+Can I receive a copy of my invoice after making a payment?
+
+About An Order :
+Can you confirm the availability of the product I want to order?
+How long will it take for my order to be shipped?
+Will I receive a tracking number for my order?
+Can I make changes to my order after it has been placed?
+Is it possible to cancel my order?
+How do I apply a discount code to my order?
+Will I be charged sales tax on my order?
+Do you offer expedited shipping options?
+Is there a minimum order value for free shipping?
+How can I get in touch with customer service if I have any issues with my order?
+
+
+About A Product :
+What are the top notes, middle notes, and base notes of the perfume?
+How long does the scent last?
+What occasions is this fragrance suitable for?
+Is the fragrance sweet, floral, musky, or woody?
+What is the concentration of the perfume?
+What is the size of the bottle?
+Is this fragrance unisex or specifically designed for men or women?
+What is the price of the perfume?
+Can I get a sample before buying the full-sized bottle?
+Are there any discounts or promotions currently available for this product?
+
+
+About A Service :
+What type of services does the online e-commerce perfume company provide?
+What is the shipping policy of the company?
+What is the return policy of the company?
+What is the customer support contact information, and what are the working hours?
+How can I track my order once it has been shipped?
+Are there any additional fees or charges besides the price of the product?
+Does the company offer any loyalty or reward programs?
+Can I receive personalized fragrance recommendations based on my preferences?
+Does the company offer any gift-wrapping or personalized messaging services?
+Are there any discounts or promotions currently available for the services provided by the company?
+
+
+About A Company :
+What types of fragrances do you offer?
+What is the quality of your perfumes?
+How long does the fragrance last?
+Can I sample your fragrances before buying them?
+What is your return policy for fragrances?
+Do you offer any discounts or promotions?
+What payment methods do you accept?
+How is the fragrance shipped and how long does it take to receive my order?
+What if I have an issue with my order or a product?
+Are your fragrances authentic and original?
+
+
+About A Website :
+What types of fragrances do you offer on your website?
+How do I navigate through your website to find the fragrance I want?
+Can I filter my search by fragrance type, brand, or price range?
+How detailed are your fragrance descriptions and what information do they include?
+Can I see customer reviews and ratings for your fragrances?
+How can I be sure that the fragrance I am ordering is authentic?
+How do I track my order and receive shipping updates?
+What is your return policy for fragrances purchased through your website?
+Can I get any special offers or discounts for purchasing through your website?
+How can I contact customer service if I have any questions or concerns about my order?
+
+Chatting :
+Is there a customer service representative available to chat with me right now?
+What are your customer service chat hours of operation?
+How long will I have to wait for a representative to respond to my chat request?
+How do I start a chat with a customer service representative?
+Do I need to provide any personal information to start a chat with a representative?
+What types of issues can be resolved through the chat feature?
+Can I save a transcript of our chat for future reference?
+Is there a limit to how long I can chat with a representative?
+Will I be transferred to a different representative during the chat session?
+Can I continue shopping on the website while I'm chatting with a representative?
+
+
+
+
